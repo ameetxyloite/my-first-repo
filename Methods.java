@@ -13,3 +13,4 @@ public static void main(String[] args) {
     myFunction1();
 }
 }
+//This is the additional changes that was created to check the merge
